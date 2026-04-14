@@ -11,19 +11,6 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
 
-
-  - align: left
-    image: caoyong.jpg
-    content: about_caoyong.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-
-  - align: left
-    image: weixiaofang.jpg
-    content: about_weixiaofang.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-
   - align: left
     image: liuwan.jpg
     content: about_liuwan.md

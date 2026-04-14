@@ -29,16 +29,17 @@ profiles:
     more_info: 
 
   - align: left
+    image: yu_pic.jpg
+    content: about_yu.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
     image: chu_pic.jpg
     content: about_chu.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
-  - align: left
-    image: yu_pic.jpg
-    content: about_yu.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
 
   - align: left
     image: bingqi.jpg
@@ -73,6 +74,12 @@ profiles:
   - align: left
     image: liubingjie.jpg
     content: about_liubingjie.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: xuqing.jpg
+    content: about_xuqing.md
     image_circular: false # crops the image to make it circular
     more_info: 
 ---
