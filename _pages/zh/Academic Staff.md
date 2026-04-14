@@ -29,20 +29,14 @@ profiles:
     more_info: 
 
   - align: left
+    image: chu_pic.jpg
+    content: about_chu.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
     image: yu_pic.jpg
     content: about_yu.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-
-  - align: left
-    image: daimingzhi.jpg
-    content: about_daimingzhi.md
-    image_circular: false # crops the image to make it circular
-    more_info: 
-
-  - align: left
-    image: chenchangyu.jpg
-    content: about_chenchangyu.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
@@ -53,15 +47,32 @@ profiles:
     more_info: 
 
   - align: left
-    image: huchenxi.jpg
-    content: about_huchenxi.md
+    image: jiangjiaxin.jpg
+    content: about_jiangjiaxin.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
   - align: left
-    image: wangbaoxiang.jpg
-    content: about_wangbaoxiang.md
+    image: gechao.jpg
+    content: about_gechao.md
     image_circular: false # crops the image to make it circular
     more_info: 
 
+  - align: left
+    image: daimingzhi.jpg
+    content: about_daimingzhi.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: liuwei.jpg
+    content: about_liuwei.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+
+  - align: left
+    image: liubingjie.jpg
+    content: about_liubingjie.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
 ---
